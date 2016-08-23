@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>SpechtLite</title>
+<link>https://zhuhaow.github.io/SpechtLite/latestappcast.xml</link>
+<description>The infomation of the lastest SpechtLite.</description>
+<language>en</language>
+<item>
+<title>SpechtLite 0.2.1</title>
+<pubDate>2016-08-23T11:37:33+00:00</pubDate>
+<description><![CDATA[
+IP list support!
+
+]]>
+</description>
+<enclosure url="https://github.com/zhuhaow/SpechtLite/releases/download/0.2.1/SpechtLite.zip"
+sparkle:version="92"
+sparkle:shortVersionString="0.2.1"
+sparkle:dsaSignature="MC0CFBEnttTQKOXE7nqL4s+6MYeqv4/IAhUAwJyksNFQxvSm/kadufYaWxSlBn0="
+length="7313530"
+type="application/octet-stream" />
+</item>
+</channel>
+</rss>
